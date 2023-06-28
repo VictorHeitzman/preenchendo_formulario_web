@@ -1,0 +1,1 @@
+automatização para ler uma base de dados, transforma-la cada dado em seu correspondente lugar no formulario
